@@ -1,4 +1,4 @@
-# ✨ Fitness health✨
+# ✨ FitSync - Revolutionizing Fitness, Health, and Sports ✨
 
 This is a web based application developed for a restaurant named PARADISE.
 
@@ -17,6 +17,10 @@ This is a web based application developed for a restaurant named PARADISE.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About ,Services, Blog, healthbot pages etc.
 - User is able to get fitness diets advices,fitness training through the website.
+- Personalized Fitness Plans.
+- Expert Guidance and Coaching.
+- Community Building and Social Integration.
+- Progress Tracking and Analytics etc.
 - Included the feedback.
 - Survey form to increase the scope of improvement 
 
