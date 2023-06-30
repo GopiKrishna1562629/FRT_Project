@@ -22,13 +22,13 @@ This is a web based application developed for a restaurant named PARADISE.
 ## Screenshots 📸
 ### Home page -   
 
-### Team page -
+### Service page -
 
 ### Contact page -
 
-### Menu Page -
+### Blog Page -
 
-### About Us Page -
+### About Page -
 
 
 ## Tech Stack 💻
