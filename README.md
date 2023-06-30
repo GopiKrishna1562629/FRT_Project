@@ -8,7 +8,7 @@ This is a web based application developed for a restaurant named PARADISE.
 *Project Link* -https://orange-field-0669c5700.3.azurestaticapps.net
 
 
-*Demo Video* -  
+*Demo Video* -  https://youtu.be/6DZJlb2apLo
 
 ## Features and Functionalities 😃
 
