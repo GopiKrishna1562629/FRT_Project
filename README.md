@@ -1,4 +1,4 @@
-![Screenshot blog](https://github.com/GopiKrishna1562629/FRT_Project/assets/113780246/d2337365-2870-47d8-afda-e264c8e0529d)# ✨ Fitness health✨
+# ✨ Fitness health✨
 
 This is a web based application developed for a restaurant named PARADISE.
 
@@ -18,7 +18,7 @@ This is a web based application developed for a restaurant named PARADISE.
 - Has collection of many web pages including Home, About ,Services, Blog, healthbot pages etc.
 - User is able to get fitness diets advices,fitness training through the website.
 - Included the feedback.
-k Survey form to increase the scope of improvement 
+- Survey form to increase the scope of improvement 
 
 ## Screenshots 📸
 ### Home page -   
@@ -50,8 +50,8 @@ k Survey form to increase the scope of improvement
 
 ##  Collaborates
 
---A Gopi Krishna Reddy(Github username:GopiKrishna1562629)
---Vammi Venkata Siva Durga Pravallika(Github username:pravallikavvsd)
---Molla Pavan Madhav Karthik Yadav(Github username:Karthikmpm)
---Perabathula Raviteja(Ravitejapec)
+- A Gopi Krishna Reddy(Github username:GopiKrishna1562629)
+- Vammi Venkata Siva Durga Pravallika(Github username:pravallikavvsd)
+- Molla Pavan Madhav Karthik Yadav(Github username:Karthikmpm)
+- Perabathula Raviteja(Ravitejapec)
 
